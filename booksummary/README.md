@@ -34,11 +34,7 @@ This is a web application built using Flask that allows users to upload PDF docu
 
 This project was inspired by the advancements in natural language processing and the capabilities offered by the Hugging Face Transformers library.
 
-## Contact
 
-For questions or inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
-
----
 
 **Note:** This application is for educational and demonstration purposes only. It showcases the integration of the Hugging Face BART model for text summarization in a Flask web application.
 
