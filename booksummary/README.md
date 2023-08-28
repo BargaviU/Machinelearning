@@ -37,4 +37,6 @@ This project was inspired by the advancements in natural language processing and
 
 
 **Note:** This application is for educational and demonstration purposes only. It showcases the integration of the Hugging Face BART model for text summarization in a Flask web application.
+Application will require the config file with secret key to land. sample pages are as below:
 
+![landingpage](https://github.com/BargaviU/Machinelearning/edit/main/booksummary/landingpage.png)
